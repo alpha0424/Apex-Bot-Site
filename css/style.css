@@ -1791,4 +1791,17 @@ input[type=submit]:hover {
   background-color: #f2f2f2;
   padding: 20px;
 }*/
-
+#header {
+  min-height: 100px;
+}
+#menu {
+  min-height: 40px;
+}
+#body {
+  min-height: 400px;
+  margin-top: 3%;
+}
+#footer {
+  min-height: 100px;
+  margin-top: 3%;
+}
